@@ -1,6 +1,6 @@
 <footer class="bg-light text-center text-lg-start mt-auto">
     <div class="text-center p-3 border-top">
-        &copy; <?= date('Y') ?> Money Saver.
+        &copy; <?= date('Y') ?> Money Saver. All rights reserved.
     </div>
 </footer>
 
