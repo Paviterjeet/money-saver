@@ -9,7 +9,7 @@
     <div class="hero-content animate__animated animate__fadeInDown">
         <h1 class="display-4 fw-bold">Welcome to Money Saver 💰</h1>
         <p class="fs-5 mt-3">Your saving journey starts today</p>
-        <a href="<?= base_url('savings/add') ?>" class="btn btn-lg btn-primary mt-3 shadow-lg">Add Your First Savings</a>
+        <a href="<?= base_url('dashboard') ?>" class="btn btn-lg btn-primary mt-3 shadow-lg">Add Your First Savings</a>
     </div>
 </div>
 
